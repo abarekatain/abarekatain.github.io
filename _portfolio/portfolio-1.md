@@ -1,3 +1,9 @@
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
 # Working with code cells
 
 In this notebook you'll get some experience working with code cells.
@@ -19,7 +25,7 @@ First, run the cell below. As I mentioned before, you can run the cell by select
 
 Shift + Enter runs the cell then selects the next cell or creates a new one if necessary. You can run a cell without changing the selected cell by pressing **Control + Enter**.
 
-The output shows up below the cell. It's printing out the result just like in a normal Python shell. Only the very last result in a cell will be printed though. Otherwise, you'll need to use `print()` print out any variables. 
+The output shows up below the cell. It's printing out the result just like in a normal Python shell. Only the very last result in a cell will be printed though. Otherwise, you'll need to use `print()` print out any variables.
 
 > **Exercise:** Run the next two cells to test this out. Think about what you expect to happen, then try it.
 
@@ -43,7 +49,7 @@ print(3**2)
 ```
 
     9
-    
+
 
 
 
@@ -124,7 +130,7 @@ import random
 random.
 ```
 
-Above you should have seen all the functions available from the random module. Maybe you're looking to draw random numbers from a [Gaussian distribution](https://en.wikipedia.org/wiki/Normal_distribution), also known as the normal distribution or the "bell curve". 
+Above you should have seen all the functions available from the random module. Maybe you're looking to draw random numbers from a [Gaussian distribution](https://en.wikipedia.org/wiki/Normal_distribution), also known as the normal distribution or the "bell curve".
 
 ## Tooltips
 
@@ -142,7 +148,7 @@ You should have seen some simple documentation like this:
     Signature: random.gauss(mu, sigma)
     Docstring:
     Gaussian distribution.
-    
+
 The function takes two arguments, `mu` and `sigma`. These are the standard symbols for the mean and the standard deviation, respectively, of the Gaussian distribution. Maybe you're not familiar with this though, and you need to know what the parameters actually mean. This will happen often, you'll find some function, but you need more information. You can show more information by pressing **shift + tab** twice.
 
 > **Exercise:** In the cell below, show the full help documentation by pressing **shift + tab** twice.
