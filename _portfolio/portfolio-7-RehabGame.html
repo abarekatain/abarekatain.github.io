@@ -1,7 +1,7 @@
 ---
-title: "TABAN Application"
+title: "Rehabilitation Interface"
 date: 2013-08-14
-excerpt: "A GUI for Visualizing Thermal Parameters of Hot Rolling Process at Mobarakeh Steel Company<br/><img src='/images/TABAN.jpg'>"
+excerpt: "An Interactive Interface Between The KUKA Robot And Stroke/SCI Patients <br/><img src='/images/RehabGame.jpg'>"
 collection: portfolio
 ---
 
@@ -127,7 +127,7 @@ img {vertical-align: middle;}
 <body>
 
 <p align="justify">
-  TABAN Application is the project assigned to me during my part-time job at Rayan Tahlil Company located at Isfahan Science and Technology Town, Iran. I was responsible for developing a Graphical User Interface(GUI) for visualizing the thermal parameters of the hot rolling process of Mobarakeh Steel Company. The application communicates with a background program which performs the calculations, and the results can be shown node-by-node, plotted, or exported.
+  This project is a part of the research on Rehabilitation Robotics at ARMLab, Isfahan University of Technology, Iran. The aim was to develop an interactive interface between the KUKA robot and stroke/SCI patients, which brings the human in the control loop of the robot and thus triggers the neuroplasticity in the process of arm-hand rehabilitation.
 </p>
 
 <h3>Screenshots</h3>
@@ -136,20 +136,14 @@ img {vertical-align: middle;}
 <! --------------------Slideshow----------------------------------------------------------------- >
 <div class="slideshow-container">
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="https://github.com/abarekatain/TABAN_App/raw/master/Screenshots/1.JPG" style="width:100%">
+  <div class="numbertext">1 / 2</div>
+  <img src="https://github.com/abarekatain/RehabGame_KUKA/raw/master/Screenshots/2.jpg" style="width:100%">
   <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="https://github.com/abarekatain/TABAN_App/raw/master/Screenshots/2.JPG" style="width:100%">
-  <div class="text"></div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="https://github.com/abarekatain/TABAN_App/raw/master/Screenshots/3.JPG" style="width:100%">
+  <div class="numbertext">2 / 2</div>
+  <img src="https://github.com/abarekatain/RehabGame_KUKA/raw/master/Screenshots/1.JPG" style="width:100%">
   <div class="text"></div>
 </div>
 
@@ -165,20 +159,36 @@ img {vertical-align: middle;}
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
 <! --------------------Slideshow---------------------------------------------------------------- >
 
+
+<h3>Demo</h3>
+<br>
+
+
+<! --------------------Video Player-------------------------------------------------------------- >
+
+<div class="video-container">
+
+<video style="width:100%" controls>
+  <source src="https://github.com/abarekatain/RehabGame_KUKA/raw/master/Preview.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</div>
+
+<! --------------------Video Player----------------------------------------------------------------- >
+
 <br>
 
 <p align="justify">
-  During the project, I came up with the idea that game development tools can be utilized to make a better GUI in terms of design, graphics, and interactivity; so I used Unity3D to develop the application, and thankfully, the outcome was satisfying.
+  By using a communication method called “Named Pipe” the interface (written in C#) can reliably communicate with the KUKA controller program (written in C++) within a separate thread, which guarantees an uninterrupted operation.
 </p>
 
 
 <br>
-<a href="https://github.com/abarekatain/TABAN_App">Github Repository</a>
+<a href="https://github.com/abarekatain/RehabGame_KUKA">Github Repository</a>
 
 
 
