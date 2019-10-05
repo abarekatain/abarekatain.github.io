@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-For my CV Please [Click Here](/files/CV_AlirezaBarekatain.pdf)
+For my CV Please [click here](/files/CV_AlirezaBarekatain.pdf)
