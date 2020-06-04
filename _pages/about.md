@@ -12,4 +12,3 @@ Thanks for Visiting my Website.
 
 To check the various projects I have carried out please visit my [portfolio page](https://abarekatain.github.io/portfolio/)
 
-For my CV, please [click here](https://abarekatain.github.io/files/CV_AlirezaBarekatain.pdf)
