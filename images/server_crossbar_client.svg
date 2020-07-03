@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 550.15 317.87" style="enable-background:new 0 0 550.15 317.87;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#D1D3D4;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:14px;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#1B75BC;stroke-miterlimit:10;stroke-dasharray:5,5;}
+	.st6{fill:#1B75BC;}
+	.st7{fill:none;stroke:#BE1E2D;stroke-miterlimit:10;stroke-dasharray:10,5,2,5;}
+	.st8{fill:#BE1E2D;}
+	.st9{fill:#808285;}
+	.st10{font-size:12px;}
+</style>
+<rect x="397.98" y="39.32" class="st0" width="116.43" height="256.34"/>
+<rect x="35.17" y="39.32" class="st0" width="116.43" height="256.34"/>
+<rect x="229.21" y="68.17" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 255.3325 94.9478)" class="st2 st3">Broker</text>
+<rect x="229.21" y="139.17" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 255.3325 165.9478)" class="st2 st3">Dealer</text>
+<rect x="207.28" y="39.32" class="st0" width="134.81" height="172.09"/>
+<rect x="47.43" y="58.17" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 65.375 84.9479)" class="st2 st3">Publisher</text>
+<rect x="47.43" y="116.38" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 61.6091 143.1608)" class="st2 st3">Subscriber</text>
+<rect x="47.43" y="174.6" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 75.2686 201.3735)" class="st2 st3">Caller</text>
+<rect x="47.43" y="232.81" class="st1" width="91.4" height="45.45"/>
+<text transform="matrix(1 0 0 1 75.2684 259.5861)" class="st2 st3">Callee</text>
+<g>
+	<line class="st4" x1="138.83" y1="80.89" x2="229.21" y2="80.89"/>
+	<g>
+		<line class="st5" x1="138.83" y1="80.89" x2="223.01" y2="80.89"/>
+		<g>
+			<polygon class="st6" points="221.62,82.93 229.21,80.89 221.62,78.86 			"/>
+		</g>
+	</g>
+</g>
+<rect x="410.49" y="58.17" transform="matrix(-1 -4.489576e-11 4.489576e-11 -1 912.383 161.7872)" class="st1" width="91.4" height="45.45"/>
+<rect x="410.49" y="116.38" transform="matrix(-1 -4.489576e-11 4.489576e-11 -1 912.383 278.2128)" class="st1" width="91.4" height="45.45"/>
+<rect x="410.49" y="174.6" transform="matrix(-1 -4.489576e-11 4.489576e-11 -1 912.383 394.6383)" class="st1" width="91.4" height="45.45"/>
+<rect x="410.49" y="232.81" transform="matrix(-1 -4.489576e-11 4.489576e-11 -1 912.383 511.0638)" class="st1" width="91.4" height="45.45"/>
+<g>
+	<g>
+		<polyline class="st5" points="138.83,197.32 171,197.32 171,152.51 223.01,152.51 		"/>
+		<g>
+			<polygon class="st6" points="221.62,154.54 229.21,152.51 221.62,150.48 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st7" points="229.21,100.09 158.74,100.09 158.74,139.11 145.03,139.15 		"/>
+		<g>
+			<polygon class="st8" points="146.41,137.11 138.83,139.17 146.42,141.18 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st7" points="229.21,172.6 195.85,172.6 195.85,255.53 145.03,255.53 		"/>
+		<g>
+			<polygon class="st8" points="146.42,253.5 138.83,255.53 146.42,257.57 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st7" x1="410.49" y1="80.89" x2="326.82" y2="80.89"/>
+		<g>
+			<polygon class="st8" points="328.21,78.86 320.62,80.89 328.21,82.93 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st7" points="410.49,197.32 382.4,197.32 382.4,152.51 326.82,152.51 		"/>
+		<g>
+			<polygon class="st8" points="328.21,150.48 320.62,152.51 328.21,154.54 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st5" points="320.62,100.09 387.85,100.09 387.85,139.11 404.29,139.15 		"/>
+		<g>
+			<polygon class="st6" points="402.9,141.18 410.49,139.17 402.91,137.12 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline class="st5" points="320.62,172.6 362.66,172.6 362.66,255.53 404.29,255.53 		"/>
+		<g>
+			<polygon class="st6" points="402.9,257.57 410.49,255.53 402.9,253.5 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 429.7527 83.5983)" class="st2 st3">Publisher</text>
+<text transform="matrix(1 0 0 1 425.9868 141.8112)" class="st2 st3">Subscriber</text>
+<text transform="matrix(1 0 0 1 439.6463 200.0238)" class="st2 st3">Caller</text>
+<text transform="matrix(1 0 0 1 439.6461 258.2365)" class="st2 st3">Callee</text>
+<text transform="matrix(1 0 0 1 67.6091 33.1917)" class="st9 st2 st10">Serverside</text>
+<text transform="matrix(1 0 0 1 228.6848 33.1914)" class="st9 st2 st10">Crossbar.io Router</text>
+<text transform="matrix(1 0 0 1 429.7532 33.1916)" class="st9 st2 st10">Clientside</text>
+</svg>
